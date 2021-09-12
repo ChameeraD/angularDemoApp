@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'angulardemoappchameera'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4d5a2bb387ff4454a8a0556a7ca97629 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c3b9197905f348228fcfe5c64e0d5323 }}
         package: .
